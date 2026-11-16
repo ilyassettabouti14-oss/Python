@@ -21,3 +21,11 @@ Les étapes sont les suivantes :
 • Recherche de l'extension : Dans la barre de recherche, j'ai tapé « Python ».
 • Installation : J'ai sélectionné l'extension officielle Python, publiée par Microsoft, puis j'ai cliqué sur Installer.
 • Configuration : Une fois l'extension installée, VS Code m'a permis de sélectionner l'interpréteur Python utilisé pour exécuter mes programmes.
+
+Installation de Python et configuration sur Visual Studio Code :
+Après avoir installé Visual Studio Code, j'ai procédé à l'installation du langage Python afin de pouvoir développer et exécuter mes premiers programmes.
+1. Téléchargement de Python
+ •Je me suis rendu sur [le site officiel de Python] : https://www.python.org/
+ •J'ai accédé à la rubrique Downloads.
+ •J'ai téléchargé la version Python 3.15.2 pour Windows.
+ •Une fois le téléchargement terminé, j'ai lancé le fichier d'installation .exe.
