@@ -25,7 +25,12 @@ Les étapes sont les suivantes :
 Installation de Python et configuration sur Visual Studio Code :
 Après avoir installé Visual Studio Code, j'ai procédé à l'installation du langage Python afin de pouvoir développer et exécuter mes premiers programmes.
 1. Téléchargement de Python
- •Je me suis rendu sur [le site officiel de Python] : https://www.python.org/
+ •Je me suis rendu sur [le site officiel de Python](https://www.python.org/)
  •J'ai accédé à la rubrique Downloads.
  •J'ai téléchargé la version Python 3.15.2 pour Windows.
  •Une fois le téléchargement terminé, j'ai lancé le fichier d'installation .exe.
+2. Installation de Python
+ •J'ai ouvert le fichier d'installation téléchargé.
+ •J'ai vérifié les options d'installation.
+ •J'ai lancé l'installation de Python.
+ •J'ai attendu que le processus se termine.
