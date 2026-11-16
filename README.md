@@ -8,7 +8,16 @@ L'installation de Visual Studio Code (VS Code) s'effectue rapidement en téléch
 
 Sous Windows
 
-• Téléchargement : Rendez-vous sur le site officiel et cliquez sur le bouton Download for Windows pour récupérer l'installateur (fichier .exe).
+• Téléchargement : Rendez-vous sur le site officiel et cliquez sur le bouton Download for Windows pour [récupérer l'installateur](https://code.visualstudio.com/download)
 • Lancement : Double-cliquez sur le fichier téléchargé et acceptez les termes du contrat de licence.
 • Options recommandées : Cochez les cases Ajouter l'action "Ouvrir avec Code" au menu contextuel et Ajouter au PATH pour lancer l'éditeur depuis le terminal.
 • Finalisation : Cliquez sur Installer, patientez quelques secondes, puis cliquez sur Terminer pour ouvrir le logiciel.
+
+Installation de Python sur Visual Studio Code : 
+Après avoir installé Visual Studio Code, j'ai procédé à l'installation de Python directement depuis l'éditeur, en utilisant l'extension officielle Python développée par Microsoft.
+Les étapes sont les suivantes :
+• Ouverture de VS Code : J'ai lancé Visual Studio Code sur mon ordinateur.
+• Accès aux extensions : Dans la barre latérale gauche, j'ai cliqué sur l'icône Extensions (ou utilisé le raccourci Ctrl + Shift + X).
+• Recherche de l'extension : Dans la barre de recherche, j'ai tapé « Python ».
+• Installation : J'ai sélectionné l'extension officielle Python, publiée par Microsoft, puis j'ai cliqué sur Installer.
+• Configuration : Une fois l'extension installée, VS Code m'a permis de sélectionner l'interpréteur Python utilisé pour exécuter mes programmes.
